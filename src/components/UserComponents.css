@@ -1,0 +1,12 @@
+.UserComponent {
+    /* display: inline-flex; */
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    border: 1px solid black;
+    flex-basis: content;
+    padding: 0 20px;
+    
+    height: 160px;
+    margin: 6px;
+    }
