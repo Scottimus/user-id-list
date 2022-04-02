@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/user-id-list/static/css/main.2f776692.css",
+    "main.js": "/user-id-list/static/js/main.2d151eb9.js",
+    "index.html": "/user-id-list/index.html",
+    "main.2f776692.css.map": "/user-id-list/static/css/main.2f776692.css.map",
+    "main.2d151eb9.js.map": "/user-id-list/static/js/main.2d151eb9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2f776692.css",
+    "static/js/main.2d151eb9.js"
+  ]
+}
